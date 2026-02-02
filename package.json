@@ -1,0 +1,44 @@
+{
+  "name": "draculas-potion",
+  "displayName": "Dracula's Potion",
+  "description": "An ultra-high contrast Dracula theme with enhanced Elixir support",
+  "version": "1.0.0",
+  "publisher": "afroximity",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dracula",
+    "dark",
+    "theme",
+    "color-theme",
+    "elixir",
+    "high-contrast",
+    "phoenix"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#080B0E",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afroximity/draculas-potion"
+  },
+  "bugs": {
+    "url": "https://github.com/afroximity/draculas-potion/issues"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dracula's Potion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/draculas-potion.json"
+      }
+    ]
+  }
+}
