@@ -4,6 +4,10 @@
   "description": "An ultra-high contrast Dracula theme with enhanced Elixir support",
   "version": "1.0.0",
   "publisher": "afroximity",
+  "author": {
+    "name": "Oguzhan",
+    "email": "oguzhan.ern@hotmail.com"
+  },
   "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"
